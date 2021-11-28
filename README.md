@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-sakdyd)
 
-### calculation
+### pagination calculation
 
 posts = [];
 currentPage = 1;
